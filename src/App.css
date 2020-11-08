@@ -1,0 +1,54 @@
+
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 5px;
+    width: 500px;
+  }
+  img:hover {
+    transform: scaleX(-1);
+  }
+  p {
+    font-family: verdana;
+    font-size: 20px;
+     color: white;
+     text-align: center}
+  h1 {
+    color: white;
+    text-align: center;
+  }
+   
+  a:link, a:visited {
+    background-color: #979A9A;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  
+}
+  
+  a:hover, a:active {
+    background-color:#2E4053 ;
+  }
+  
+  li {
+    display: inline;
+  }
+
+  a:active {
+    color: blue;
+  }
+  form{
+    font-family: verdana;
+    font-size: 10px;
+     color: white;
+     text-align: center;
+}
+
+
+
+br { color: #979A9A; }
+
+

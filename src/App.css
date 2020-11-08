@@ -1,14 +1,5 @@
 
 
-img {
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    padding: 5px;
-    width: 500px;
-  }
-  img:hover {
-    transform: scaleX(-1);
-  }
   p {
     font-family: verdana;
     font-size: 20px;
